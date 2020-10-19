@@ -1,0 +1,5 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+521f3ad3-5b6c-4135-8e4a-0b19014902c9,1603093802.628226,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+8f223fcc-d222-456e-ac79-a283af1b5f7b,1603093802.6288419,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+ef32cf80-57ff-4eda-91a8-ca37cba7eee0,1603093823.6056771,"('2017-11-29', '2019-05-27')",{'rmse': 25427.19832574268},0.1,supervised learing model for time-series,000:00:20
+fc555202-44b5-4d20-aee8-1e94db47af45,1603093838.621761,"('2017-12-04', '2019-05-31')",{'rmse': 23162.53711380399},0.1,supervised learing model for time-series,000:00:14
