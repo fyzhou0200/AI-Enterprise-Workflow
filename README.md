@@ -35,7 +35,7 @@ To build the docker container
 -----------------------------
 
 ``` {.bash}
-~$ docker build -t iris-ml .
+~$ docker build -t capstone-ml .
 ```
 
 Check that the image is there.
@@ -83,7 +83,7 @@ Run the container to test that it is working
 --------------------------------------------
 
 ``` {.bash}
-~$ docker run -p 4000:8080 iris-ml
+~$ docker run -p 4000:8080 capstone-ml
 ```
 
 Go to <http://0.0.0.0:4000/> and you will see a basic website that can
